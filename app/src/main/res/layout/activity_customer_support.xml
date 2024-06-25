@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".CustomerSupportActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:cardCornerRadius="30dp"
+        android:layout_marginTop="20dp"
+        app:cardElevation="10dp"
+        android:backgroundTint="#D1CB99">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Name :- Saurabh Kendre"
+                android:textSize="20sp"
+                android:layout_marginTop="20dp"
+                android:textColor="#5B112E"
+                tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact No. :- 9579546256"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:textColor="#5B112E"
+        tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Email :- saukendre007@gmail.com"
+                android:textSize="20sp"
+                android:layout_marginTop="20dp"
+                android:textColor="#5B112E"
+                tools:ignore="MissingConstraints" />
+
+
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

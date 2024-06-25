@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Sau Blood Bank</string>
+    <string-array name="blood">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="amount">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="Center">
+        <item>All</item>
+        <item>Dr Shankarrao Chavan Government Medical College and Hospital Blood Centre, Vishnupuri, Nanded</item>
+        <item>Sanjeevani Blood Centre, Kopargaon</item>
+        <item>Dr. Vivek Pimpalkar Blood Centre</item>
+        <item>Civil Surgeon, Dist- General Hospital Blood Centre, Amravati</item>
+        <item>Dattaji Bhale Blood Centre</item>
+        <item>Klasadhana Bahuuddeshiya Seva Bhavi Sanstha, City Blood Centre, Component and Apheresis Centre, Beed</item>
+        <item>Nirmal Bahuuddeshiya sanstha, Samarpan Blood Centre, Bhandara</item>
+        <item>Ankur Hospital Blood Centre</item>
+        <item>Shree Navjeevan Blood Centre</item>
+        <item>Sant Jagnnath Maharaj Anjalekar Bahuudeshiya Sanstha Sanjivani Blood Centre</item>
+        <item>Jankalyan Blood Centre</item>
+        <item>Mahatma Gandhi Hospital Blood Centre</item>
+        <item>Indian Red Cross Society, Dr. Bhalchandra Blood Centre</item>
+        <item>KEM Hospital Blood Centre</item>
+        <item>Dr. Hegdewar Blood Centre</item>
+        <item>Ansar Blood Centre</item>
+        <item>Shrikrishna Blood Centre</item>
+        <item>Maharashtra BloodBank, Component and Apheresis Cenre</item>
+        <item>M/s. Shri Hazur Saheb Blood Bank, Components Laboratory and Apheresis Centre</item>
+        <item>Indian Serological Institute Blood Centre</item>
+        <item>Jankalyan Blood Centre, Mahad</item>
+        <item>Indian Red Cross Society Blood Centre</item>
+        <item>Rajaram Bapu Blood Centre</item>
+        <item>Phaltan Medical Foundation Blood Centre</item>
+        <item>Azad Panchi Groups Kurduwadi Blood Centre</item>
+        <item>Sri Sathya Sai Blood Centre</item>
+        <item>General Hospital Blood Centre</item>
+        <item>Shri Gajanan Blood Centre</item>
+
+
+
+
+
+    </string-array>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
